@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Spencer Kline",
+      "authorEmail": "dskline1@gmail.com",
+      "authorUrl": "https://github.com/dskline/generator-dskline"
+    }
+  }
+}
